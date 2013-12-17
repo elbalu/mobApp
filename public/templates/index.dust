@@ -1,0 +1,19 @@
+<div data-role="page" id="indexPage">
+	<div data-role="header">
+		<h1>Welcome To My Homepage</h1>
+	</div>
+
+	<div data-role="content" id="dropbox">
+		<div id="widget" class="source">
+			<img src="images/a_1.png" height="200"/>
+		</div>
+		<div id="dest">
+			<img src="images/a.png"/>
+			<p>Drop here</p>
+		</div>
+	</div>
+
+	<div data-role="footer">
+		<h1>Footer Text</h1>
+	</div>
+</div> 

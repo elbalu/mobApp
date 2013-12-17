@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>{+title /}</title>
+    <link rel="stylesheet" href="{cssLink}/app.css" />
+</head>
+<body>
+	<div id="wrapper" class="container">
+
+    	{>"{viewName}"/}
+	</div>
+
+<script data-main="{jsLink}/main" src="{jsLink}/lib/require-2.0.1.js"></script>
+</body>
+</html>
